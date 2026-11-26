@@ -1,13 +1,15 @@
-# Vídeos recientes (Synthesia)
+# Vídeos recientes
 
-Listado de los vídeos creados últimamente, preparados para subirlos más tarde.
-Los archivos MP4 todavía no están en este repositorio: se añadirán en la carpeta `videos/`.
+Vídeos preparados para subirlos más tarde. Los MP4 irán en esta carpeta (`videos/`).
 
-| Vídeo | Duración | Formato | Estado | Editor |
-|---|---|---|---|---|
-| El efecto puerta | 34 s | 1080x1920 (vertical), MP4, ~27 MB | Exportado en calidad completa | https://app.synthesia.io/syren/video-edit/a16b6096-0b97-4536-926c-5aaa253533af |
-| Cristiano: más goles después de los 30 | en curso | vertical | Syren aún lo está generando; exportación en cola | https://app.synthesia.io/syren/video-edit/23721797-e3a4-425e-aafc-ae55eb5f8113 |
+| Vídeo | Origen | Estado |
+|---|---|---|
+| la-tierra-se-detiene-short.mp4 (22-nov, ~34 MB) | Google Drive | https://drive.google.com/file/d/19KcpxRMfDIioaX55VbbJNVmaGTjZ2PfC/view |
 
-Descartados (borradores de 1 s; Synthesia rechaza exportarlos):
-- "me puedes crear este video? Primer plano" (02340a24-c3b8-4991-b9dc-911fd4c68ebe)
-- "me puedes crear este video? Primer plano" (e2fa92bf-0871-4cb9-aff8-f09ec029394c)
+## Pendientes (en el repositorio `desktop-tutorial`)
+
+Los vídeos de las últimas sesiones están en estas ramas y todavía no se han copiado aquí:
+
+- `claude/busy-noether-g5aqia`: vídeo del Real Madrid (51 s, 1920x1080), Short vertical, miniatura y `PUBLICAR.md`
+- `claude/confident-mayer-nmu3o2`: Shorts stick man (el Short final estaba pendiente de render)
+- `claude/magical-ptolemy-sjleqd`: nichos de fútbol (esa sesión sigue en curso)
